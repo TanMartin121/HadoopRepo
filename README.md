@@ -12,5 +12,7 @@ The DataCleaning folder contains a ipynb file for processing the raw dataset and
 - **amazon_electronic_reviews.csv** (2GB): Cleaned and filtered version focusing on electronics category.
 - **BDA_Dataset.zip**: Compressed version of the datasets.
 
+Source link for dataset: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
+
 ## Note:
 These files are tracked with [Git LFS](https://git-lfs.github.com/) due to their large size.
